@@ -21,8 +21,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Luan-Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  <img align="center" alt="Luan-Sass" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
-  <img align="center" alt="Luan-Jquery" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+  <img align="center" alt="Luan-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+  <img align="center" alt="Luan-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
+  <img align="center" alt="Luan-Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
 </div>
 

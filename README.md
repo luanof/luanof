@@ -34,6 +34,7 @@
 ![WebAPI](https://img.shields.io/badge/WebAPI_Rest-5C2D91?style=for-the-badge&logoColor=white)&nbsp;
 ![UnitTests](https://img.shields.io/badge/Testes_de_Unidades-5C2D91?style=for-the-badge&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ## 
@@ -45,6 +46,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
 ![Scrum](https://img.shields.io/badge/Scrum-5C2D91?style=for-the-badge&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 
 #### Boas Práticas:
 
